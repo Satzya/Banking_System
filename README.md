@@ -5,4 +5,5 @@ A banking application for maintaining customer accounts.
   Withdrawl,
   Ministatement,
   Consumer Registration.
+  Account Information. 
   
